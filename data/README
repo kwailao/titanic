@@ -1,0 +1,13 @@
+train.csv
+PassengerId 乘客序号
+Survived 是否幸存 0 =否，1 =是
+Pclass 客舱等级
+Name 姓名
+Sex 性别 male female
+Age 年龄
+SibSp  配偶及兄弟姐妹数(直系)
+Parch  父母与子女数(旁系)
+Ticket 票编号
+Fare 票价
+Cabin 客舱编号
+Embarked  登船港口 C =瑟堡，Q =皇后镇，S =南安普敦
